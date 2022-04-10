@@ -12,7 +12,7 @@
 ```shell
 git clone --single-branch --branch main https://github.com/denizkarakass/trafikbotu.git GOSB
 
-cd GOSB
+cd trafikbotu
 ```
 
 
