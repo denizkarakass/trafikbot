@@ -29,7 +29,7 @@ pip install -r ./requirements.txt
 ```shell
 py ./main.py
 ```
-
+!Proxyler hazır değildir sizin temin etmeniz gerek proxy olmadan da çalışır ama etkili olmaz.
 
 
 "# trafikbot" 
