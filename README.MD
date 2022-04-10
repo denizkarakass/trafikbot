@@ -10,7 +10,7 @@
 1. Repoyu klonla
 
 ```shell
-git clone --single-branch --branch main https://github.com/denizkarakass/trafikbotu.git GOSB
+git clone --single-branch --branch main https://github.com/denizkarakass/trafikbotu.git 
 
 cd trafikbotu
 ```
